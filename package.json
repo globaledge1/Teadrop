@@ -1,0 +1,27 @@
+package.json
+{
+  "name": "teadrop",
+  "version": "1.0.0",
+  "description": "Decentralized messaging platform built on Web3 technology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass teadrop.scss teadrop.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/teadrop.git"
+  },
+  "keywords": [
+    "teadrop",
+    "messaging",
+    "web3",
+    "decentralized",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
