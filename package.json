@@ -19,7 +19,7 @@ package.json
     "decentralized",
     "css"
   ],
-  "author": "Your Name",
+  "author": "globaledge1",
   "license": "MIT",
   "devDependencies": {
     "node-sass": "^7.0.0"
